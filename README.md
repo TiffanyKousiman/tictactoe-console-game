@@ -32,10 +32,8 @@ Gained practical experience of object-oriented design by going through a supervi
 Click [here](preliminary_designs.pdf) for the design document containing:
 1. High-level **CRC** classes design of objects in the program
 2. **Class diagram**
-3. **Object diagram** displaying a snapshot of the program memory at a particular time during
-the program execution
-4. **Sequence Diagram** describing a significant scenario and exercise some important
-functionalities of the software
+3. **Object diagram** displaying a snapshot of the program memory at a particular time during the program execution
+4. **Sequence Diagram** describing a significant scenario and exercise some important functionalities of the software
 
 
 ## System Functionalities
